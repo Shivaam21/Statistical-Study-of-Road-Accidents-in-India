@@ -1,0 +1,1 @@
+Performed statistical and machine learning analysis on Indian road accident data using Python, SQL, and Power BI, achieving 91% recall in fatal accident prediction and delivering actionable safety insights.
